@@ -9,7 +9,7 @@
 }
 
 .wrapper div {
-    outline: 2px solid #000;
+    outline: 1px solid #000;
 }
 .first_container_parent {
     font-size: 0;
@@ -19,13 +19,17 @@
 .child{
     width: 400px;
     height: 400px;
-    outline: 2px solid #000;
+    padding: 20px;
     display: inline-block;
     font-size: 20px;
 }
 
 .second_container_parent {
     background: #DAFBF7;
+}
+
+.padding20 {
+    padding: 20px;
 }
 
 .second_1 {
@@ -36,6 +40,7 @@
 
 .second_1 div {
     height: 200px;
+    padding: 20px;
 }
 
 .second_2{
@@ -46,6 +51,7 @@
 
 .second_2 div {
     height: 133.333px;
+    padding: 20px;
 }
 
 .third_container_parent {
@@ -59,6 +65,7 @@
     height: 400px;
     float: left;
     font-size: 20px;
+    padding: 20px;
 }
 
 .container3_2 {
@@ -66,6 +73,7 @@
     height: 200px;
     float: left;
     font-size: 20px;
+    padding: 20px;
 }
 
 .container3_3 {
@@ -73,6 +81,7 @@
     height: 200px;
     float: left;
     font-size: 20px;
+    padding: 20px;
 }
 
 .container3_4 {
@@ -80,6 +89,7 @@
     height: 100px;
     float: left;
     font-size: 20px;
+    padding: 20px;
 }
 
 .container3_5 {
@@ -87,4 +97,5 @@
     height: 100px;
     float: left;
     font-size: 20px;
+    padding: 20px;
 }
