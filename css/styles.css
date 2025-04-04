@@ -1,1 +1,34 @@
-@import url(reset.css)
+@import url(reset.css);
+
+.fs_0 {
+    font-size: 0;
+}
+.wrapper {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.wrapper div {
+    outline: 2px solid #000;
+}
+.first_container_parent {
+    font-size: 0;
+    
+}
+.child{
+    width: 400px;
+    height: 400px;
+    outline: 2px solid #000;
+    display: inline-block;
+    font-size: 20px;
+}
+
+.second_container_parent div {}
+
+.second{
+    float: left;
+}
+
+.third_container_parent {
+
+}
