@@ -13,6 +13,7 @@
 }
 .first_container_parent {
     font-size: 0;
+    background: #F6FFD4;
     
 }
 .child{
@@ -23,14 +24,33 @@
     font-size: 20px;
 }
 
-.second_container_parent div {}
+.second_container_parent {
+    background: #DAFBF7;
+}
 
-.second{
+.second_1 {
     float: left;
+    width: 800px;
+    font-size: 20px;
+}
+
+.second_1 div {
+    height: 200px;
+}
+
+.second_2{
+    float: left;
+    width: 400px;
+    font-size: 20px;
+}
+
+.second_2 div {
+    height: 133.333px;
 }
 
 .third_container_parent {
     font-size: 0;
+    background: #F9E6F9;
 
 }
 
