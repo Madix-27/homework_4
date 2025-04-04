@@ -30,5 +30,41 @@
 }
 
 .third_container_parent {
+    font-size: 0;
 
+}
+
+.container3_1 {
+    width: 400px;
+    height: 400px;
+    float: left;
+    font-size: 20px;
+}
+
+.container3_2 {
+    width: 800px;
+    height: 200px;
+    float: left;
+    font-size: 20px;
+}
+
+.container3_3 {
+    width: 400px;
+    height: 200px;
+    float: left;
+    font-size: 20px;
+}
+
+.container3_4 {
+    width: 400px;
+    height: 100px;
+    float: left;
+    font-size: 20px;
+}
+
+.container3_5 {
+    width: 400px;
+    height: 100px;
+    float: left;
+    font-size: 20px;
 }
